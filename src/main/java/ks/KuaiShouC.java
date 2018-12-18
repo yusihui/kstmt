@@ -6,4 +6,9 @@ public class KuaiShouC implements Kuaishou {
     public String getAge() {
         return "32";
     }
+
+    @Override
+    public void setAge() {
+        
+    }
 }
