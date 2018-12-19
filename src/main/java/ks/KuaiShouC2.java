@@ -10,6 +10,6 @@ public class KuaiShouC2 implements Kuaishou {
 
     @Override
     public void setAge() {
-
+        System.out.println("ttttt");
     }
 }
